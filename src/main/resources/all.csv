@@ -1,0 +1,76 @@
+﻿"доступны плагины, которые можно использовать для выполнения задач, начиная от компиляции кода и заканчивая упаковкой","plugins are available that can be used to perform tasks ranging from code compilation to packaging,"
+это ценный инструмент для объединения лучших практик и общих ресурсов,"it's a valuable tool for bundling best practices and common assets ,"
+один метод обычно включает в себя одно действие,"one method typically involves one action,"
+"он может служить инструментом, позволяющим нам упорядочивать доступные плагины","it can serve as a tool lets us sequence available plugins,"
+это не налагает никаких условностей или ограничений на ваш проект,"it doesn't impose any conventions or restrictions on your project,"
+"Сегодня, хотя строгий TDD практикуется редко, эта идея широко распространена","""Today, while strict TDD is seldom practiced, the idea is prevalent"","
+это дает практическое представление о Селене,"it provides practical insight into the Selenium ,"
+"в нем представлен POM, популярный шаблон проектирования, используемый совместно с Selenium ","""it introduces POM, a popular design pattern used in conjunction with Selenium"","
+"С этой целью в этой главе сначала объясняется, как проводить кроссбраузерное тестирование","""To that aim, this chapter first explains how to carry out cross-browser testing "","
+"Этот сервер подключает веб-браузеры по требованию, вводя Selenium","""This server launches web browsers on demand, injecting the Selenium "","
+"Кроме того, Selenium Remote control вносит соответствующие дополнения, влияющие на его производительность.","""Besides, Selenium Remote control introduces a relevant additions that impacts its performance."","
+Я хочу поблагодарить за всесторонний обзор,"I want to recognize for a comprehensive overview,"
+"Как мы уже упоминали, расширение файлов не удобны","""As we mentioned, file extensions are not convenient"","
+"плагины доступны, которые можно использовать для выполнения задач, начиная от компиляции кода и заканчивая упаковкой,","plugins are available that can be used to perform tasks ranging from code compilation to packaging,"
+"он может служить инструментом, передающим архивы","""it can serve as a tool, conveying archives"","
+его возможности и производительность намного превосходят RC,"its capabilities and performance are far superior to RC,"
+его использование не рекомендуется в пользу Selenium,"its use is discouraged in favor of Selenium ,"
+"В таблице приведены браузеры и драйверы, официально поддерживаемые Selenium,","Table  summarizes the browsers and drivers officially supported by Selenium,"
+"Драйверы - это зависящие от платформы двоичные файлы, которые получают команды от скрипта WebDriver ","Drivers are platform-dependent binary files that receive commands from a WebDriver script ,"
+аличие описания тестов значительно сократит время регрессионного тестирования,"having a description of the tests will significantly reduce the time of regression testing,"
+Они хотят ввести систему удостоверений личности. ,They want to introduce a system of identity cards
+Это представляло собой попытку навязать ограничение как совершившийся факт.,it represented an attempt to impose the restriction as a fait accompli.
+Это выходит за рамки моих возможностей как инженера,It is beyond my capabilities as an engineer
+"Он сочетает в себе большие возможности для хранения и компактном, легком корпусе.","It combines large storage capabilities and a compact, lightweight body"
+Руководство содержит подробное описание технического,The manual contains an extensive description of maintenance
+"Удивлен, что ты его не узнал.",Surprised you didn't recognize it.
+"Каждый вид услуги или продукта обладает уникальными аспектами, оценка которых позволяет определить достигнутый уровень удовлетворенности.",Each type of service or product has unique aspects whose assessment provides insight into the level of satisfaction achieved.
+Это включает в себя внесение поправок в соответствующие законы,This includes amending the relevant laws
+По этой причине так называемые менеджеры драйверов стремятся автоматизировать процесс управления драйверами в некоторой степени ,"For this reason, the so-called driver managers aim to carry out the driver management process in an automated fashion to some extent"
+"Selenium это основой для фреймворков, которые объединяют, улучшают или дополняют его функции по умолчанию","Selenium is the foundation for frameworks that wrap, enhance, or complement its default features"
+"Тем не менее, эта инфраструктуры может оказаться непростой задачей для создания и поддержания","Nevertheless, this infrastructure can be challenging to create and maintain."
+Из-за своего совместного характера разработка программного обеспечения требует организации и взаимодействия многих участников,"Due to its collaborative nature, software development needs the organization and interaction of many participants"
+Интеграционное тестирование направлено на оценку взаимодействия между задействованными блоками и выявление дефектов в их интерфейсах.,Integration testing aims to assess the interaction between the involved units and expose defects in their interfaces.
+Эта зависимость является единственной строго обязательной,This dependency is the only one strictly mandatory
+Обязательно разрешить соответствующий драйвер перед созданием экземпляра объекта иерархии WebDriver,It is mandatory to resolve the corresponding driver before instantiating an object of the WebDriver hierarchy
+Я не знаю тоже.,I don't know either.
+Любой из примеров верен.,Either of the examples is correct.
+Его главная обязанность на мероприятии -  проверка посещаемости. ,His primary duty at the event is to take attendance.
+Ты сопроводишь меня до магазина?,Will you accompany me to the store
+Он открыто признался в своей любви к ней,He openly declared his love for her.
+Невозможно переоценить важность этого открытия.,It's impossible to exaggerate the importance of this discovery
+Как вы смеете обвинять меня во лжи!,How dare you accuse me of lying
+Это было необходимо только в особых случаях.,It was needed only on special occasions.
+Я нахожу её позицию совершенно неприемлемой,I found her attitude totally unacceptable.
+Он страдал от усталости и эмоционального напряжения,He suffered from fatigue and emotional tension.
+"Я думаю, мы можем договориться",I think we can arrange a deal.
+"Я ценю вашу заботу, но честно говоря, у меня всё в порядке","I appreciate your concern, but honestly, I'm fine."
+"Я выполнил всё, что намеревался сделать.",I have achieved what I set out to do.
+Доктор тщательно его осмотрел,The doctor gave him a thorough check-up
+Мне нужно посоветоваться с manual team,I need to consult with manual team
+Я терпеть не могу регрессионное тестирование больше,I cannot suffer regression testing anymore
+Очертания гор были отчётливо видны,The outline of the mountains was clearly visible.
+"Без особых на то причин, он бросил работу","For no particular reason, he quit his job."
+В данном конкретном случае никто другой не был замешан,"In this particular case, no one else was involved"
+"Я пришел сразу, как получил ваше сообщение.",I came directly I got your message.
+Он принял вашу точку зрения?,Did he adopt your point of view?
+Нам помешали войти на эту территорию.,We were prevented from entering this territory.
+Её лицо медленно расплылось в улыбке,A slow smile spread over her face.
+Вроде бы ничего важного не произошло. ,Nothing occurred that seemed important
+Мне и в голову не приходило об этом упоминать,It did not occur to me to mention it.
+Общественное мнение может влиять на решения правительства. ,Public opinion can contribute to government decisions.
+"Чтобы команда победила, в это должен внести свой вклад каждый. ","In order for the team to win, everyone has to contribute."
+"Тестовые случаи оказались сложнее, чем ожидалось",The tests cases turned out to be complicated than anticipated
+"Им нужно предложить что-то особенное, чтобы привлечь клиенто",They need to offer something extra to attract customers.
+"Теперь, когда вы упомянули об этом, я действительно помню",Now you mention it I do remember
+"Как я упоминал ранее, в последнее время произошло множество изменений.","As I mentioned earlier, there have been a lot of changes recently"
+Это решение влечёт за собой множество изменений.,This decision involves many changes.
+Это требует тщательного рассмотрения.,It requires thorough consideration.
+я хочу подчеркнуть важность этих вопросов,I want to emphasize the importance of these issues
+"у меня достаточно гибкости, чтобы справиться с этой работой",i have enough flexibility to cope with the job
+Учитель не принял мое извинение за опоздание,My teacher rejected my excuse for being late.
+"я признаю, что был немного груб по-английски",i admit being a little bit rude in english
+Мой опыт делает меня прекрасно подходящим для его должности,My expirience make me a greate fit for his position
+Мой опыт включает в себя работу в государственной компании,My background includes working in state-owned company
+Изучив информацию о,In my research about a 
+У меня пятилетний опыт работы в сфере ставок,I have five year of expirience in betting field
